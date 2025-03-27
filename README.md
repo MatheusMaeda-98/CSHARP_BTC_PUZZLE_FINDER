@@ -30,3 +30,6 @@ In SetProcessAffinity(1);, you can define the number of CPU cores used for the s
 
 - You can modify the keys to be compared in targetAddresses.
 
+
+donate us bc1qd682u7wwyck8cmrewr2vs64th6g9m6gg5r753k
+
